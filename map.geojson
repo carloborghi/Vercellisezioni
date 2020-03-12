@@ -19860,61 +19860,6 @@
       "type": "Feature",
       "properties": {},
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.428187370300293,
-          45.319549441921765
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.428874015808105,
-          45.32149576152068
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.431084156036377,
-          45.32272537858628
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.428487777709961,
-          45.32084699574991
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.432285785675049,
-          45.320447171284314
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
