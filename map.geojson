@@ -44144,7 +44144,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -44262,6 +44264,17 @@
               45.31426839304161
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.43271493911743,
+          45.312714162066946
         ]
       }
     }
